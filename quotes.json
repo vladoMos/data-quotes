@@ -1,0 +1,102 @@
+ [
+    {
+        id: 1,
+        citat: "Uspjeh nije konačan, neuspjeh nije fatalan: hrabrost za nastavak je ono što se računa.",
+        autor: "Winston Churchill"
+    },
+    {
+        id: 2,
+        citat: "Jedini način da postignete sjajne stvari je voljeti ono što radite.",
+        autor: "Steve Jobs"
+    },
+    {
+        id: 3,
+        citat: "Postavljajte ciljeve visoko i ne prestajte dok ih ne postignete.",
+        autor: "Bo Jackson"
+    },
+    {
+        id: 4,
+        citat: "Najveća opasnost za većinu nas nije da ciljevi budu previsoki i da ih ne postignemo, već da budu preniski i da ih postignemo.",
+        autor: "Michelangelo"
+    },
+    {
+        id: 5,
+        citat: "Ne brojite dane, nego neka dani broje.",
+        autor: "Muhammad Ali"
+    },
+    {
+        id: 6,
+        citat: "Promijenite svoje misli i promijenit ćete svoj svijet.",
+        autor: "Norman Vincent Peale"
+    },
+    {
+        id: 7,
+        citat: "Ništa nije nemoguće, sama riječ kaže 'moguće je'!",
+        autor: "Audrey Hepburn"
+    },
+    {
+        id: 8,
+        citat: "Vjeruj da možeš i već si na pola puta.",
+        autor: "Theodore Roosevelt"
+    },
+    {
+        id: 9,
+        citat: "Samo onaj tko riskira otići predaleko može saznati koliko daleko može ići.",
+        autor: "T.S. Eliot"
+    },
+    {
+        id: 10,
+        citat: "Neka vaš život bude remek-djelo; zamislite ga i ostvarite.",
+        autor: "Napoleon Hill"
+    },
+    {
+        id: 11,
+        citat: "Snovi su početak stvarnosti.",
+        autor: "Napoleon Hill"
+    },
+    {
+        id: 12,
+        citat: "Danas činite ono što drugi neće, sutra ćete moći ono što drugi ne mogu.",
+        autor: "Jerry Rice"
+    },
+    {
+        id: 13,
+        citat: "Mudrost je znati što učiniti, vrlina je to učiniti.",
+        autor: "David Starr Jordan"
+    },
+    {
+        id: 14,
+        citat: "Ako možeš sanjati, možeš to i ostvariti.",
+        autor: "Walt Disney"
+    },
+    {
+        id: 15,
+        citat: "Vaša budućnost ovisi o onome što radite danas.",
+        autor: "Mahatma Gandhi"
+    },
+    {
+        id: 16,
+        citat: "Nikad ne podcjenjujte moć svojih misli da oblikuju vašu stvarnost.",
+        autor: "Napoleon Hill"
+    },
+    {
+        id: 17,
+        citat: "Svi vaši snovi mogu se ostvariti ako imate hrabrosti slijediti ih.",
+        autor: "Walt Disney"
+    },
+    {
+        id: 18,
+        citat: "Čini se uvijek nemogućim dok se ne učini.",
+        autor: "Nelson Mandela"
+    },
+    {
+        id: 19,
+        citat: "Nemojte se bojati odustati od dobrog da biste postigli sjajno.",
+        autor: "John D. Rockefeller"
+    },
+    {
+        id: 20,
+        citat: "Postati što god želite nije pitanje sreće, nego pitanje izbora.",
+        autor: "Jim Rohn"
+    }
+];
