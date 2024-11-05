@@ -1,4 +1,4 @@
-const citati = [
+ [
     {
         "id": 1,
         "citat": "Uspjeh nije konačan, neuspjeh nije fatalan: hrabrost za nastavak je ono što se računa.",
